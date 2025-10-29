@@ -1,0 +1,44 @@
+{
+  "sections": {
+    "croissantsSmash": "Croissants smash",
+    "chickenWaffles": "Galli & waffles",
+    "pancakesDesserts": "Pancakes & desserts",
+    "drinks": "Bautgs signature"
+  },
+  "items": {
+    "smashClassic": "Smash classic cun bov",
+    "smashSalmon": "Croissant cun salm",
+    "crispyWaffle": "Waffle cun giaglina crouschanta",
+    "pancakes": "Pancakes maple & pecan",
+    "latte": "Flat white",
+    "mangoDream": "Mango dream"
+  },
+  "descriptions": {
+    "smashClassic": "Caschiel alpin, ov liber, pickles faits chasa.",
+    "smashSalmon": "Salm marinà, cream cheese da limun, anet.",
+    "crispyWaffle": "Gialina crouschanta, sirop spezial, waffle lom.",
+    "pancakes": "Scirop d'acer, nuschs pecan caramelisadas.",
+    "latte": "Cafè local, latg fin.",
+    "mangoDream": "Mango fresc, cocos, cardamom."
+  },
+  "tags": {
+    "halal": "Halal",
+    "fish": "Pèsch",
+    "veg": "Vegetarian",
+    "gf": "Senza gluten",
+    "lf": "Senza lattosa"
+  },
+  "ui": {
+    "search": "Tschertgar in spais",
+    "filters": {
+      "title": "Filters",
+      "only": "Mussar sulettamain",
+      "halal": "Halal",
+      "veg": "Vegetarian",
+      "lf": "Senza lattosa",
+      "gf": "Senza gluten"
+    },
+    "allergens": "Cuntegn allergens: {list}",
+    "empty": "Nagins spais cumpatibles cun ils filters."
+  }
+}

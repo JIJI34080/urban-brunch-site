@@ -1,0 +1,44 @@
+{
+  "sections": {
+    "croissantsSmash": "Smash croissants",
+    "chickenWaffles": "Chicken & waffles",
+    "pancakesDesserts": "Pancakes & desserts",
+    "drinks": "Signature drinks"
+  },
+  "items": {
+    "smashClassic": "Classic beef smash",
+    "smashSalmon": "Gravlax salmon croissant",
+    "crispyWaffle": "Crispy chicken waffle",
+    "pancakes": "Maple & pecan pancakes",
+    "latte": "House flat white",
+    "mangoDream": "Mango dream"
+  },
+  "descriptions": {
+    "smashClassic": "Aged cheddar, farm egg, house pickles.",
+    "smashSalmon": "Cured salmon, lemon cream cheese, dill.",
+    "crispyWaffle": "Crispy chicken, spiced syrup, fluffy waffle.",
+    "pancakes": "Pure maple syrup, caramelised pecans.",
+    "latte": "Local roast espresso with silky milk.",
+    "mangoDream": "Fresh mango, coconut, hint of cardamom."
+  },
+  "tags": {
+    "halal": "Halal",
+    "fish": "Fish",
+    "veg": "Vegetarian",
+    "gf": "Gluten free",
+    "lf": "Lactose free"
+  },
+  "ui": {
+    "search": "Search a dish",
+    "filters": {
+      "title": "Filters",
+      "only": "Show only",
+      "halal": "Halal",
+      "veg": "Vegetarian",
+      "lf": "Lactose free",
+      "gf": "Gluten free"
+    },
+    "allergens": "Contains allergens: {list}",
+    "empty": "No dishes match your filters."
+  }
+}

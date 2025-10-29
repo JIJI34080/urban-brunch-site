@@ -1,0 +1,130 @@
+{
+  "brand": "URBAN BRUNCH",
+  "tagline": "Brunch creativ, gustus & halal — mintga di.",
+  "meta": {
+    "description": "URBAN BRUNCH serva ideas da brunch creativas, halal e responsablas a Neuchâtel."
+  },
+  "nav": {
+    "home": "Chasa",
+    "menu": "Carta",
+    "brunch": "Brunch",
+    "gallery": "Galleria",
+    "about": "Davart nus",
+    "contact": "Contact",
+    "reservation": "Reservar",
+    "legal": "Infurmaziuns legalas"
+  },
+  "cta": {
+    "viewMenu": "Vesair la carta",
+    "order": "Far in empustaziun",
+    "book": "Reservar ussa"
+  },
+  "hero": {
+    "kicker": "Neuchâtel",
+    "description": "Cuschina stagionala, zero spretsch e vibraziuns soul.",
+    "imageAlt": "Tavla da brunch culurida"
+  },
+  "hours": {
+    "title": "Uras d'avertura",
+    "closed": "Serrà",
+    "openNow": "Ussa avert",
+    "closedNow": "Actualmain serrà",
+    "nextOpening": "Avra puspè a las {time}",
+    "day": {
+      "monday": "Glindesdi",
+      "tuesday": "Mardi",
+      "wednesday": "Mesemna",
+      "thursday": "Gievgia",
+      "friday": "Venderdi",
+      "saturday": "Sonda",
+      "sunday": "Dumengia"
+    }
+  },
+  "gallery": {
+    "title": "Muments da gust",
+    "description": "Impressiuns or da la cuschina e sala."
+  },
+  "newsletter": {
+    "title": "Restar inspirà",
+    "description": "Recuva novas creaziuns, occurrenzas e ofertas.",
+    "placeholder": "Tia adressa e-mail",
+    "submit": "Abunar",
+    "success": "Grazia per tia abunament!"
+  },
+  "contact": {
+    "title": "Contact",
+    "address": "Rue de l’Hôpital, 2000 Neuchâtel",
+    "form": {
+      "title": "Scriva nus",
+      "name": "Num",
+      "email": "E-mail",
+      "message": "Messadi",
+      "submit": "Trametter",
+      "success": "Grazia! Nus ans ansain prest.",
+      "error": "Ina errur è capitada. Emprova p.pl. anc ina giada."
+    }
+  },
+  "reservation": {
+    "title": "Reservar ina maisa",
+    "description": "Planisescha il brunch ideal cun paucas cliccas.",
+    "date": "Data",
+    "time": "Ura",
+    "people": "Dumber persunas",
+    "email": "E-mail",
+    "submit": "Confermar",
+    "success": "Tia reservaziun è confermada!",
+    "error": "Impussibel da trametter la reservaziun."
+  },
+  "about": {
+    "title": "Noss concept",
+    "mission": "URBAN BRUNCH cumbinescha inspiraziuns street-food cun tradiziuns svizras. Nus preferin products locals e cuschina 100% halal.",
+    "sustainability": "Mintga emna reinventain nus las recetas per reducir spretsch e dar ils surpliens ad uniuns localas."
+  },
+  "brunch": {
+    "title": "Formulas brunch",
+    "subtitle": "Tscherna tia luna dad oz.",
+    "urbanSoul": {
+      "title": "Urban Soul",
+      "description": "Croissant smash cun bov, ov crudà, succus detox."
+    },
+    "medinaMorning": {
+      "title": "Medina Morning",
+      "description": "Waffle cun giaglina spetada lev, hummus d'argan, tè da menta fraid."
+    },
+    "alpineGlow": {
+      "title": "Alpine Glow",
+      "description": "Pancakes maple & pecan, skyr, latte cun cardamom."
+    }
+  },
+  "legal": {
+    "title": "Infurmaziuns legalas",
+    "content": "Quest sit è in project da demonstraziun. Tut ils cuntegns èn be d'exempel."
+  },
+  "admin": {
+    "title": "Zona d'administraziun",
+    "subtitle": "Modifitgar cuntegns JSON simpel.",
+    "password": "Pled-clav",
+    "submit": "S'annunziar",
+    "logout": "Sortir",
+    "invalid": "Pled-clav nunvalid.",
+    "selectFile": "Tscherna ina datoteca",
+    "save": "Memorisar",
+    "success": "Cuntegn memorisà cun success.",
+    "error": "Memorisaziun nunreussida.",
+    "missingKeys": "Clavs mancantas chattadas"
+  },
+  "form": {
+    "required": "Champ necessari",
+    "invalidEmail": "E-mail nunvalida"
+  },
+  "map": {
+    "title": "Chattar nus",
+    "aria": "Carta da Google"
+  },
+  "footer": {
+    "rights": "Tut ils dretgs reservads"
+  },
+  "language": {
+    "label": "Lingua"
+  }
+}

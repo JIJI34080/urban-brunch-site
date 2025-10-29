@@ -1,0 +1,9 @@
+[
+  { "day": "monday", "open": "08:00", "close": "21:00" },
+  { "day": "tuesday", "closed": true },
+  { "day": "wednesday", "open": "08:00", "close": "21:00" },
+  { "day": "thursday", "open": "08:00", "close": "21:00" },
+  { "day": "friday", "open": "08:00", "close": "22:00" },
+  { "day": "saturday", "open": "08:00", "close": "22:00" },
+  { "day": "sunday", "open": "08:00", "close": "22:00" }
+]

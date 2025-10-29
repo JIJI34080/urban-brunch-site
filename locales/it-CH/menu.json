@@ -1,0 +1,44 @@
+{
+  "sections": {
+    "croissantsSmash": "Croissant smash",
+    "chickenWaffles": "Chicken & waffles",
+    "pancakesDesserts": "Pancake & dolci",
+    "drinks": "Drink signature"
+  },
+  "items": {
+    "smashClassic": "Smash classic al manzo",
+    "smashSalmon": "Croissant al salmone",
+    "crispyWaffle": "Waffle con pollo croccante",
+    "pancakes": "Pancake maple & pecan",
+    "latte": "Flat white",
+    "mangoDream": "Mango dream"
+  },
+  "descriptions": {
+    "smashClassic": "Cheddar stagionato, uovo bio, pickles fatti in casa.",
+    "smashSalmon": "Salmone marinato, cream cheese al limone, aneto.",
+    "crispyWaffle": "Pollo croccante, sciroppo speziato, waffle soffice.",
+    "pancakes": "Sciroppo d'acero, noci pecan caramellate.",
+    "latte": "Caffè tostato localmente, latte vellutato.",
+    "mangoDream": "Mango fresco, cocco, cardamomo."
+  },
+  "tags": {
+    "halal": "Halal",
+    "fish": "Pesce",
+    "veg": "Vegetariano",
+    "gf": "Senza glutine",
+    "lf": "Senza lattosio"
+  },
+  "ui": {
+    "search": "Cerca un piatto",
+    "filters": {
+      "title": "Filtri",
+      "only": "Mostra solo",
+      "halal": "Halal",
+      "veg": "Vegetariano",
+      "lf": "Senza lattosio",
+      "gf": "Senza glutine"
+    },
+    "allergens": "Allergeni presenti: {list}",
+    "empty": "Nessun piatto corrisponde ai filtri."
+  }
+}

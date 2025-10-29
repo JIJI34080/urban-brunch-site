@@ -1,0 +1,31 @@
+{
+  "sections": [
+    {
+      "key": "croissantsSmash",
+      "items": [
+        { "key": "smashClassic", "price": 14.9, "tags": ["halal"] },
+        { "key": "smashSalmon", "price": 16.5, "tags": ["fish"] }
+      ]
+    },
+    {
+      "key": "chickenWaffles",
+      "items": [
+        { "key": "crispyWaffle", "price": 15.9, "tags": ["halal"] }
+      ]
+    },
+    {
+      "key": "pancakesDesserts",
+      "items": [
+        { "key": "pancakes", "price": 11.9, "tags": ["veg"] }
+      ]
+    },
+    {
+      "key": "drinks",
+      "items": [
+        { "key": "latte", "price": 4.5, "tags": [] },
+        { "key": "mangoDream", "price": 6.9, "tags": [] }
+      ]
+    }
+  ],
+  "allergens": ["gluten", "lactose", "egg", "nuts"]
+}
