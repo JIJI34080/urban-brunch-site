@@ -1,0 +1,44 @@
+{
+  "sections": {
+    "croissantsSmash": "Smash-Croissants",
+    "chickenWaffles": "Chicken & Waffles",
+    "pancakesDesserts": "Pancakes & Desserts",
+    "drinks": "Signature Drinks"
+  },
+  "items": {
+    "smashClassic": "Smash Classic mit Rind",
+    "smashSalmon": "Croissant mit Lachs",
+    "crispyWaffle": "Knusper-Waffle mit Poulet",
+    "pancakes": "Pancakes Maple & Pecan",
+    "latte": "Flat White",
+    "mangoDream": "Mango Dream"
+  },
+  "descriptions": {
+    "smashClassic": "Alpkäse, Freilandei, hausgemachte Pickles.",
+    "smashSalmon": "Marinierter Lachs, Zitronen-Frischkäse, Dill.",
+    "crispyWaffle": "Knuspriges Poulet, würziger Sirup, weiche Waffel.",
+    "pancakes": "Ahornsirup, karamellisierte Pekannüsse.",
+    "latte": "Lokale Röstung, fein texturierter Milch.",
+    "mangoDream": "Frische Mango, Kokos, Kardamom."
+  },
+  "tags": {
+    "halal": "Halal",
+    "fish": "Fisch",
+    "veg": "Vegetarisch",
+    "gf": "Glutenfrei",
+    "lf": "Laktosefrei"
+  },
+  "ui": {
+    "search": "Gericht suchen",
+    "filters": {
+      "title": "Filter",
+      "only": "Nur anzeigen",
+      "halal": "Halal",
+      "veg": "Vegetarisch",
+      "lf": "Laktosefrei",
+      "gf": "Glutenfrei"
+    },
+    "allergens": "Enthält Allergene: {list}",
+    "empty": "Keine Gerichte entsprechen deiner Auswahl."
+  }
+}

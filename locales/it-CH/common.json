@@ -1,0 +1,130 @@
+{
+  "brand": "URBAN BRUNCH",
+  "tagline": "Brunch creativo, goloso e halal — tutti i giorni.",
+  "meta": {
+    "description": "URBAN BRUNCH propone brunch creativi, halal e sostenibili nel cuore di Neuchâtel."
+  },
+  "nav": {
+    "home": "Home",
+    "menu": "Menu",
+    "brunch": "Brunch",
+    "gallery": "Galleria",
+    "about": "Chi siamo",
+    "contact": "Contatto",
+    "reservation": "Prenota",
+    "legal": "Note legali"
+  },
+  "cta": {
+    "viewMenu": "Guarda il menu",
+    "order": "Ordina da asporto",
+    "book": "Prenota ora"
+  },
+  "hero": {
+    "kicker": "Neuchâtel",
+    "description": "Cucina stagionale, zero sprechi e vibrazioni soul.",
+    "imageAlt": "Tavola da brunch colorata"
+  },
+  "hours": {
+    "title": "Orari",
+    "closed": "Chiuso",
+    "openNow": "Aperto ora",
+    "closedNow": "Attualmente chiuso",
+    "nextOpening": "Riapre alle {time}",
+    "day": {
+      "monday": "Lunedì",
+      "tuesday": "Martedì",
+      "wednesday": "Mercoledì",
+      "thursday": "Giovedì",
+      "friday": "Venerdì",
+      "saturday": "Sabato",
+      "sunday": "Domenica"
+    }
+  },
+  "gallery": {
+    "title": "I nostri momenti",
+    "description": "Scatti dalla cucina e dalla sala."
+  },
+  "newsletter": {
+    "title": "Rimani ispirato",
+    "description": "Ricevi novità, eventi e offerte speciali.",
+    "placeholder": "La tua email",
+    "submit": "Iscriviti",
+    "success": "Grazie per esserti iscritto!"
+  },
+  "contact": {
+    "title": "Contatto",
+    "address": "Rue de l’Hôpital, 2000 Neuchâtel",
+    "form": {
+      "title": "Scrivici",
+      "name": "Nome",
+      "email": "Email",
+      "message": "Messaggio",
+      "submit": "Invia",
+      "success": "Grazie! Ti risponderemo presto.",
+      "error": "Si è verificato un errore. Riprova."
+    }
+  },
+  "reservation": {
+    "title": "Prenota un tavolo",
+    "description": "Organizza il tuo brunch ideale in pochi click.",
+    "date": "Data",
+    "time": "Ora",
+    "people": "Numero di persone",
+    "email": "Email",
+    "submit": "Conferma",
+    "success": "La tua prenotazione è confermata!",
+    "error": "Impossibile inviare la prenotazione."
+  },
+  "about": {
+    "title": "Il nostro concept",
+    "mission": "URBAN BRUNCH fonde street-food e tradizioni svizzere. Privilegiamo filiere corte e cucina 100% halal.",
+    "sustainability": "Ogni settimana reinventiamo le ricette per ridurre gli sprechi e donare le eccedenze alle associazioni locali."
+  },
+  "brunch": {
+    "title": "Formule brunch",
+    "subtitle": "Scegli il tuo mood di oggi.",
+    "urbanSoul": {
+      "title": "Urban Soul",
+      "description": "Croissant smash al manzo, uovo morbido, succo detox."
+    },
+    "medinaMorning": {
+      "title": "Medina Morning",
+      "description": "Waffle con pollo speziato, hummus all'argan, tè alla menta freddo."
+    },
+    "alpineGlow": {
+      "title": "Alpine Glow",
+      "description": "Pancake maple & pecan, skyr, latte alla cardamomo."
+    }
+  },
+  "legal": {
+    "title": "Note legali & privacy",
+    "content": "Questo sito è una demo. I contenuti sono puramente illustrativi."
+  },
+  "admin": {
+    "title": "Area admin",
+    "subtitle": "Modifica veloce dei contenuti JSON.",
+    "password": "Password",
+    "submit": "Accedi",
+    "logout": "Esci",
+    "invalid": "Password errata.",
+    "selectFile": "Seleziona file",
+    "save": "Salva",
+    "success": "Contenuto salvato con successo.",
+    "error": "Salvataggio non riuscito.",
+    "missingKeys": "Chiavi mancanti trovate"
+  },
+  "form": {
+    "required": "Campo obbligatorio",
+    "invalidEmail": "Email non valida"
+  },
+  "map": {
+    "title": "Dove siamo",
+    "aria": "Mappa di Google"
+  },
+  "footer": {
+    "rights": "Tutti i diritti riservati"
+  },
+  "language": {
+    "label": "Lingua"
+  }
+}

@@ -1,0 +1,130 @@
+{
+  "brand": "URBAN BRUNCH",
+  "tagline": "Brunch créatif, gourmand & halal — tous les jours.",
+  "meta": {
+    "description": "URBAN BRUNCH propose des formules brunch créatives, halal et responsables au cœur de Neuchâtel."
+  },
+  "nav": {
+    "home": "Accueil",
+    "menu": "Carte",
+    "brunch": "Brunch",
+    "gallery": "Galerie",
+    "about": "À propos",
+    "contact": "Contact",
+    "reservation": "Réserver",
+    "legal": "Mentions légales"
+  },
+  "cta": {
+    "viewMenu": "Voir la carte",
+    "order": "Commander à emporter",
+    "book": "Réserver"
+  },
+  "hero": {
+    "kicker": "Neuchâtel",
+    "description": "Cuisine saisonnière, zéro gaspillage et ambiance soul.",
+    "imageAlt": "Table de brunch colorée"
+  },
+  "hours": {
+    "title": "Horaires",
+    "closed": "Fermé",
+    "openNow": "Ouvert maintenant",
+    "closedNow": "Actuellement fermé",
+    "nextOpening": "Rouvre à {time}",
+    "day": {
+      "monday": "Lundi",
+      "tuesday": "Mardi",
+      "wednesday": "Mercredi",
+      "thursday": "Jeudi",
+      "friday": "Vendredi",
+      "saturday": "Samedi",
+      "sunday": "Dimanche"
+    }
+  },
+  "gallery": {
+    "title": "Moments gourmands",
+    "description": "Une sélection de nos coups de cœur en cuisine et en salle."
+  },
+  "newsletter": {
+    "title": "Restez inspiré·e",
+    "description": "Recevez les nouveaux brunchs, événements et offres limitées.",
+    "placeholder": "Votre email",
+    "submit": "S'inscrire",
+    "success": "Merci pour votre inscription !"
+  },
+  "contact": {
+    "title": "Contact",
+    "address": "Rue de l’Hôpital, 2000 Neuchâtel",
+    "form": {
+      "title": "Écrivez-nous",
+      "name": "Nom",
+      "email": "Email",
+      "message": "Message",
+      "submit": "Envoyer",
+      "success": "Merci ! Nous vous répondrons rapidement.",
+      "error": "Une erreur est survenue. Merci de réessayer."
+    }
+  },
+  "reservation": {
+    "title": "Réserver une table",
+    "description": "Planifiez votre brunch idéal en quelques clics.",
+    "date": "Date",
+    "time": "Heure",
+    "people": "Nombre de personnes",
+    "email": "Email",
+    "submit": "Confirmer",
+    "success": "Votre réservation est confirmée !",
+    "error": "Impossible d'envoyer la réservation."
+  },
+  "about": {
+    "title": "Notre concept",
+    "mission": "URBAN BRUNCH marie inspirations street-food et traditions suisses. Nous privilégions les circuits courts et une cuisine 100% halal.",
+    "sustainability": "Chaque semaine, nous réinventons nos recettes pour limiter le gaspillage et valoriser les invendus auprès d'associations locales."
+  },
+  "brunch": {
+    "title": "Formules brunch",
+    "subtitle": "Choisissez votre humeur du jour.",
+    "urbanSoul": {
+      "title": "Urban Soul",
+      "description": "Croissant smash bœuf, œuf coulant, jus détox maison."
+    },
+    "medinaMorning": {
+      "title": "Medina Morning",
+      "description": "Waffle poulet épices douces, houmous à l'huile d'argan, thé menthe glacé."
+    },
+    "alpineGlow": {
+      "title": "Alpine Glow",
+      "description": "Pancakes maple & pecan, yaourt skyr, latte cardamome."
+    }
+  },
+  "legal": {
+    "title": "Mentions légales",
+    "content": "Ce site est une démonstration. Les contenus et visuels sont fournis à titre d'exemple."
+  },
+  "admin": {
+    "title": "Espace d'administration",
+    "subtitle": "Modifier rapidement le contenu JSON.",
+    "password": "Mot de passe",
+    "submit": "Se connecter",
+    "logout": "Déconnexion",
+    "invalid": "Mot de passe invalide.",
+    "selectFile": "Sélectionnez un fichier",
+    "save": "Enregistrer",
+    "success": "Contenu enregistré avec succès.",
+    "error": "La sauvegarde a échoué.",
+    "missingKeys": "Clés manquantes détectées"
+  },
+  "form": {
+    "required": "Champ requis",
+    "invalidEmail": "Email invalide"
+  },
+  "map": {
+    "title": "Nous trouver",
+    "aria": "Carte Google Maps"
+  },
+  "footer": {
+    "rights": "Tous droits réservés"
+  },
+  "language": {
+    "label": "Langue"
+  }
+}

@@ -1,0 +1,19 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+:root {
+  color-scheme: light dark;
+}
+
+body {
+  @apply bg-cream text-brand antialiased;
+}
+
+a {
+  @apply text-terracotta underline-offset-4 transition-colors hover:text-wood;
+}
+
+.card-shadow {
+  box-shadow: 0 20px 45px -25px rgba(17, 17, 17, 0.35);
+}
